@@ -141,11 +141,11 @@ public class Main {
         int kristinaOldAnnualSalary = kristinaSalary*numberOfMonth;
 
         System.out.println("Годовой доход Маши вырос на " +
-                ((mashaNewSalary*numberOfMonth)-mashaOldAnnualSalary) + "рублей");
+                ((mashaNewSalary*numberOfMonth)-mashaOldAnnualSalary) + " рублей");
         System.out.println("Годовой доход Дениса вырос на " +
-                ((denisNewSalary*numberOfMonth)-denisOldAnnualSalary) + "рублей");
+                ((denisNewSalary*numberOfMonth)-denisOldAnnualSalary) + " рублей");
         System.out.println("Годовой доход Кристины вырос на " +
-                ((kristinaNewSalary*numberOfMonth)-kristinaOldAnnualSalary) + "рублей");
+                ((kristinaNewSalary*numberOfMonth)-kristinaOldAnnualSalary) + " рублей");
 
 
 
