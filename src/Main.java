@@ -124,19 +124,19 @@ public class Main {
         // Задача 8
         System.out.println("Задача 8");
 
-        int mashasalary = 67_760;
+        int mashaSalary = 67_760;
         int denisSalary = 83_690;
         int kristinaSalary = 76_230;
         var percent = 1.1;
         var numberOfMonth = 12;
-        double mashaNewSalary = mashasalary*percent;
+        double mashaNewSalary = mashaSalary*percent;
         double denisNewSalary = denisSalary*percent;
         double kristinaNewSalary = kristinaSalary*percent;
 
-        System.out.println("Маша теперь получает " + mashasalary* percent + " рублей в месяц");
+        System.out.println("Маша теперь получает " + mashaSalary* percent + " рублей в месяц");
         System.out.println("Денис теперь получает " + denisSalary* percent + " рублей в месяц");
         System.out.println("Кристина теперь получает " + kristinaSalary* percent + " рублей в месяц");
-        int mashaOldAnnualSalary = mashasalary*numberOfMonth;
+        int mashaOldAnnualSalary = mashaSalary*numberOfMonth;
         int denisOldAnnualSalary = denisSalary*numberOfMonth;
         int kristinaOldAnnualSalary = kristinaSalary*numberOfMonth;
 
